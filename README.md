@@ -9,7 +9,7 @@
 
 ## Method
 Some basic functions are
-'''
+```
 void calculate() It is used to calculate the grade of a student.
 void get_data() It is used to get student data.
 void show_data() It is used to display student data.
@@ -23,6 +23,6 @@ void add_student() It is used to add a student data.
 void modify_student() It is used to modify the data of an existing user.
 void search_student() It is used to search for a specific student.
 void delete_student() It is used to delete the data of an existing user.
-'''
+```
 
 ## Output
