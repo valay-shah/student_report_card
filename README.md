@@ -27,3 +27,6 @@ void delete_student() It is used to delete the data of an existing user.
 
 ![Screenshot from 2020-09-07 21-56-42](https://user-images.githubusercontent.com/40459209/92406821-9f480480-f156-11ea-93b9-2b95c80ec5e4.png)
 
+![Screenshot from 2020-09-07 21-56-20](https://user-images.githubusercontent.com/40459209/92406871-c30b4a80-f156-11ea-9110-76b5a241a97e.png)
+
+
